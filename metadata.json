@@ -1,0 +1,5 @@
+{
+  "name": "OPIc Master",
+  "description": "A personalized OPIc preparation app with customized exams and AI feedback.",
+  "requestFramePermissions": ["microphone"]
+}
